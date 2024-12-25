@@ -1,0 +1,116 @@
+html, body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cassiopea_-_Noisy_-_Many_of_the_fainter_%22stars%22_are_just_hot_pixels_and_quantum_noise.jpg/1280px-Cassiopea_-_Noisy_-_Many_of_the_fainter_%22stars%22_are_just_hot_pixels_and_quantum_noise.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;  
+  /* set's space background to cover full width & height of the browser window */
+}
+#sun {
+  position: absolute;
+ top: 50;
+  left: 5%;
+  height: 150px; 
+  width: 150px;  
+  /* set's size of sun & aligns with other planets */
+}
+
+#mercury {
+  position: absolute;
+  left: 5%;
+  /* position mercury */
+  height: 42px;
+  width: 42px; 
+  /* size mercury */
+
+}
+
+#venus {
+  position: absolute;
+  left: 5%;
+  /* position venus */
+  height: 42px;
+  width: 42px;
+  /* size venus */
+}
+
+#earth {
+  position: absolute;
+  left: 5%;
+  /* position earth */
+  height: 42px;
+  width: 42px;
+  /* size earth */
+}
+
+#mars {
+  position: absolute;
+  left: 5%;
+  /* position mars */
+  height: 42px;
+  width: 42px;
+  /* size mars */
+}
+
+#jupiter {
+  position: absolute;
+  left: 5%;
+  /* position jupiter */
+  width: 44px;
+  height: 50px;
+  /* size jupiter */
+}
+
+#saturn{
+  position: absolute;
+  left: 5%;
+  /* position saturn */
+  height: 42px;
+  width: 62px;
+  /* size saturn */
+}
+
+#uranus {
+  position: absolute;
+  left: 5%;
+  /* position uranus */
+  width: 42px;
+  height: 42px;
+  /* size uranus */
+}
+
+#neptune {
+  position: absolute;
+  left: 0%;
+  right: 95%;
+  /* position uranus */
+  height: 42px;
+  width: 42px;
+  /* size uranus */
+}	
+
+#pluto {
+  position: absolute; 
+  left: -20%;
+  
+  /* position pluto */
+  height: 42px;
+  width: 42px;
+  /* size pluto */
+}
+
+#comet {
+  position: absolute;
+  left: 20%; 
+  /* position comet */
+  height: 150px;
+  width: 15px;
+  /* size comet */	
+}
+#spaceship {
+  position: absolute;
+  left: 5%;  
+  /* position spaceship */
+  height: 25px;
+  width: 25px; 
+  /* size spaceship */
+
+}
