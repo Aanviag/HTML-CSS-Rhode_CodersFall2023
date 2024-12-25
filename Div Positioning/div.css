@@ -1,0 +1,12 @@
+.parent{
+  background: green;
+  display: flex;
+  height: 200px;
+  align-items:stretch;
+}
+.child{
+  background: orange;
+  height: 50px;
+  width: 50px;
+  margin: 1px;
+}
