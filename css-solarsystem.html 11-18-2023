@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <!-- content -->
+    <div class="planets">
+    
+      <!--image of the sun -->
+      <img id="sun" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Sun_in_February_%28transparent%29.png">
+    
+      <!-- images of the planets -->
+      <img id="mercury" src="mercury.png">
+      <img id="venus" src="venus.png">
+      <img id="earth" src="earth.png">
+      <img id="mars" src="mars.png">
+      <img id="jupiter" src="jupiter.png">
+      <img id="saturn" src="saturn.png">
+      <img id="uranus" src="uranus.png">
+      <img id="neptune" src="neptune.png">
+      <img id="pluto" src="pluto.png">
+      <img id="comet" src="comet.png">
+      <img id="spaceship" src="spaceship.png">
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
