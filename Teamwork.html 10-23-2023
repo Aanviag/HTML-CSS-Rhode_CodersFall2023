@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <style>
+    body {
+       background: cornflowerblue;
+    }
+    
+  </style>
+</head>
+
+<body>
+  <center><div class="box">
+    <br>
+    <br>
+    <h2>Can You Copy Me?</h2>
+  </div>
+    <div class="box"> 
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb11ef2rb-syMuFxh5hBg9ieNajdV0VbIL0Sl6d794Mu4QPbZATmw83RKxZBd9LhLc-eo&usqp=CAU"> 
+    </div>
+  <div class="box2">
+    <p><b>Tips:</b></p>
+    <ul>
+      <li>You can replace the text, colors, and image with anything you want</li>
+      <li>Figure out hot to center the squares using margin</li>
+      <li>If the image is too large to fit inside the box, try setting its width using a percentage value</li>
+
+    </ul>
+  </div></center>
+
+  
+   
+</body>
+
+</html>
