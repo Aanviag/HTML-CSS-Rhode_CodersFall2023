@@ -1,0 +1,28 @@
+.frame {
+width: 200px;
+  Padding:30px;
+  background-color: pink;
+  border: 50px;
+}
+div:hover{
+  background-color: #6b6bd6;
+}
+body{
+  background-color: #7edd7e;
+}
+img{
+  width: 200px;
+  height: 250px;
+}
+h1{
+  color:maroon;
+}
+h3{
+  color:red;
+}
+ul{
+  color:white;
+}
+P{
+  color:blue;
+}
